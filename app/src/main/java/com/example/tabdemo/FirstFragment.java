@@ -16,7 +16,7 @@ import android.widget.ListView;
  * A simple {@link Fragment} subclass.
  */
 public class FirstFragment extends Fragment {
-    String s1[]={"Monet","Ashamar","concentrix","maruti","honda","Monet","Ashamar","concentrix","maruti","honda"};
+    String s1[]={"Monet","Ashamar","concentrix","maruti","honda","Monet","Ashamar","concentrix","maruti","honda","Monet","Ashamar","concentrix","maruti","honda","Monet","Ashamar","concentrix","maruti","honda"};
     ListView listView;
     public FirstFragment() {
         // Required empty public constructo

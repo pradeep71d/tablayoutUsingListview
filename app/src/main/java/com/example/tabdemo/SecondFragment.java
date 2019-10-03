@@ -18,7 +18,7 @@ import android.widget.ListView;
 public class SecondFragment extends Fragment {
 
 ListView listView;
-String s2[]={"6556","56768","57676","4556465","4648722","446578"};
+String s2[]={"6556","56768","57676","4556465","4648722","446578","6556","56768","57676","4556465","4648722","446578","6556","56768","57676","4556465","4648722","446578"};
 
     public SecondFragment() {
         // Required empty public constructor
